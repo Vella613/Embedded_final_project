@@ -7,4 +7,3 @@
  * ----------------------------------------------------------------------------
  */
 
-Pratually with generated with Chatgpt and Blackbox AI
